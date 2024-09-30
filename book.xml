@@ -1,0 +1,17 @@
+<catalog>
+    <book>
+        <title>The Art of Programming</title>
+        <author>John Doe</author>
+        <price>59.99</price>
+    </book>
+    <book>
+        <title>Introduction to Algorithms</title>
+        <author>Jane Smith</author>
+        <price>89.99</price>
+    </book>
+    <book>
+        <title>Artificial Intelligence</title>
+        <author>Michael Johnson</author>
+        <price>120.50</price>
+    </book>
+</catalog>
