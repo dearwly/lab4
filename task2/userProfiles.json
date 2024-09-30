@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "Emily",
+        "lastName": "Brown",
+        "email": "emily.brown@yuanshen.com",
+        "dateOfBirth": "1990-05-15",
+        "address": {
+            "street": "123 Main St",
+            "city": "Springfield",
+            "state": "IL",
+            "zipCode": "62704"
+        },
+        "preferences": {
+            "theme": "Dark",
+            "language": "English",
+            "notifications": true,
+            "subscription": false
+        }
+    },
+    {
+        "firstName": "James",
+        "lastName": "Wilson",
+        "email": "james.wilson@yuanshen.com",
+        "dateOfBirth": "1985-08-23",
+        "address": {
+            "street": "456 Oak St",
+            "city": "Shelbyville",
+            "state": "KY",
+            "zipCode": "40065"
+        },
+        "preferences": {
+            "theme": "Light",
+            "language": "English",
+            "notifications": false,
+            "subscription": true
+        }
+    }
+]
